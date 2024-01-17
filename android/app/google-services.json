@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1079310124228",
+    "project_id": "xyz-ias--auth",
+    "storage_bucket": "xyz-ias--auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079310124228:android:3f4fdc5f4750d902643591",
+        "android_client_info": {
+          "package_name": "com.example.saffron_ias_flutter_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079310124228-ibrk2a535cqv2a91hj41ggmeokbaf19v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvJJjgTDGVf0V6l9ed7Wv9g1hc8_nC9no"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079310124228-ibrk2a535cqv2a91hj41ggmeokbaf19v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,54 @@
+{
+    "user": {
+        "id": "teacher789",
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "isTeacher": true,
+        "uploaded_courses": [
+            {
+                "course_id": "py101",
+                "title": "Python Programming",
+                "description": "A comprehensive Python programming course for beginners.",
+                "created_at": "2023-01-01T08:00:00Z",
+                "videos": [
+                    {
+                        "video_id": "py101_intro",
+                        "title": "Introduction to Python",
+                        "duration": "10:30",
+                        "url": "https://example.com/intro_video",
+                        "uploaded_at": "2023-01-01T08:30:00Z"
+                    },
+                    {
+                        "video_id": "py101_variables",
+                        "title": "Variables and Data Types",
+                        "duration": "15:45",
+                        "url": "https://example.com/variables_video",
+                        "uploaded_at": "2023-01-02T09:15:00Z"
+                    }
+                ]
+            },
+            {
+                "course_id": "webdev101",
+                "title": "Web Development 101",
+                "description": "An introductory course to web development.",
+                "created_at": "2023-02-10T09:00:00Z",
+                "videos": [
+                    {
+                        "video_id": "webdev101_intro",
+                        "title": "Introduction to Web Development",
+                        "duration": "12:00",
+                        "url": "https://example.com/webdev_intro",
+                        "uploaded_at": "2023-02-10T09:30:00Z"
+                    },
+                    {
+                        "video_id": "webdev101_html",
+                        "title": "HTML Basics",
+                        "duration": "18:20",
+                        "url": "https://example.com/html_basics",
+                        "uploaded_at": "2023-02-11T10:45:00Z"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "test_name": "UPSC_PRELIM",
+    "test_type": "",
+    "test_duration": 3600000,
+    "numberOfQuestions": 20,
+    "isMultipleAnswer": false,
+    "questions": [
+        {
+            "question": "What is the name of the",
+            "options": [
+                "Yuan",
+                "Yen",
+                "Won",
+                "Ringgit"
+            ],
+            "plain_question": "Consider the following statements",
+            "isPlainQuestion": false,
+            "initial_question": "Consider the following statements",
+            "map_statements_headings": [
+                "Port",
+                "Well known as"
+            ],
+            "map_statements": [
+                {
+                    "left": "hvhvh",
+                    "right": "First major port in India registered as a company ·"
+                },
+                {
+                    "left": "hvhvh",
+                    "right": "First major port in India registered as a company ·"
+                },
+                {
+                    "left": "hvhvh",
+                    "right": "First major port in India registered as a company ·"
+                }
+            ],
+            "serial_statements": [
+                "Jhelum River passes through Wular Lake.",
+                "Krishna River directly feeds Kolleru Lake.",
+                "Meandering of Gandak River formed Kanwar Lake."
+            ],
+            "final_question": "How many of the statements· given above are correct?",
+            "diagram": "",
+            "options2": [
+                {
+                    "optionOne": "Only one",
+                    "isCorrectAnswer": true
+                },
+                {
+                    "optionTwo": "Only two",
+                    "isCorrectAnswer": false
+                },
+                {
+                    "optionThree": "All three                    ",
+                    "isCorrectAnswer": false
+                },
+                {
+                    "optionFour": "None",
+                    "isCorrectAnswer": false
+                }
+            ]
+        }
+    ]
+}

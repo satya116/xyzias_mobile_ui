@@ -1,0 +1,41 @@
+{
+    "user": {
+        "id": "user123",
+        "name": "Alice",
+        "email": "alice@example.com",
+        "subscriptions": [
+            {
+                "course_id": "py101",
+                "subscribed_at": "2023-02-01T14:00:00Z",
+                "watched_videos": [
+                    {
+                        "video_id": "py101_intro",
+                        "watched_at": "2023-02-02T10:30:00Z",
+                        "progress": "50%"
+                    },
+                    {
+                        "video_id": "py101_variables",
+                        "watched_at": "2023-02-03T11:45:00Z",
+                        "progress": "75%"
+                    }
+                ]
+            },
+            {
+                "course_id": "webdev101",
+                "subscribed_at": "2023-02-10T09:00:00Z",
+                "watched_videos": [
+                    {
+                        "video_id": "webdev101_intro",
+                        "watched_at": "2023-02-11T13:15:00Z",
+                        "progress": "30%"
+                    },
+                    {
+                        "video_id": "webdev101_html",
+                        "watched_at": "2023-02-12T14:30:00Z",
+                        "progress": "45%"
+                    }
+                ]
+            }
+        ]
+    }
+}
